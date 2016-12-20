@@ -1,5 +1,7 @@
 # Tinyproxy as Docker container
 
+# With hyper.sh auto runner
+
 ## How to use
 
 Starting a tinyproxy instance is simple:
